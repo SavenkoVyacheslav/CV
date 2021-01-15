@@ -1,0 +1,23 @@
+
+  body {
+    background-color: #fcf8;
+  }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-color: #70af85;
+    border-width: 5px;
+  }
+  h1, h3 {
+    color: #00917c;
+  }
+  a:visited {
+color: #ff577f;
+  }
+  a:hover {
+    color: #ff884b;
+  }
+  a:active {
+    color: #ffc764;
+  }
